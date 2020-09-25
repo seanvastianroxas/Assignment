@@ -9,7 +9,7 @@ h1{
 	text-align: center;
 	margin: 50px auto 0 auto;
 	font-family: 'Sacramento', cursive;
-	font-size:7rem;
+	font-size:5.6em;
 }
 
 h2{
@@ -18,7 +18,7 @@ h2{
 
 	text-align: center;
 	font-family: 'Montserrat', sans-serif;
-	font-size:2.75rem;
+	font-size:2.5em;
 	font-weight: normal;
 }
 
@@ -40,7 +40,7 @@ h5{
 	text-align: center;
 	color:#11999E;
 
-	font-size:1.25rem;
+	font-size:1.25em;
 	font-family: 'Montserrat', sans-serif;
 	font-weight: bold;
 }
@@ -72,6 +72,9 @@ a:hover{
 
 /* specific selector */
 
+.myski{
+	margin-top: 10%;
+}
 .cloud1{
 
 	
@@ -156,16 +159,6 @@ a:hover{
 
 }
 
-.design{
-
-	margin-top: 7%;
-	margin-left:25%;
-
-	color: #66BFBF;
-	font-family:'Monteserrat', bold;
-	font-size: 1.3em;
-	padding-bottom: 10px;
-}
 
 .imgf1{
 
